@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DailyETLAutomation", "DailyETLAutomation.dtproj", "{90A0560D-0C45-4D24-9F20-F275AFBF1B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A0560D-0C45-4D24-9F20-F275AFBF1B60}.Development|Default.ActiveCfg = Development
+		{90A0560D-0C45-4D24-9F20-F275AFBF1B60}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3647F3-A08D-4DFF-BA72-351C12EFCF8A}
+	EndGlobalSection
+EndGlobal
